@@ -22,4 +22,6 @@ integrate some of it or all of it.
 
 Please cite my paper:
 
---- ForthComing ---
+I, Wolfson, `` Analytic Correlation of Inflationary Potential to Power Spectrum Shape: 
+                Limits of Validity, and `No-Go' for Small Field Model Analytics,``
+arXiv:2110.10557
